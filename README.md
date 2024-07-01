@@ -9,7 +9,7 @@
 
 - 🤝 Identity project [Identity (Private Repo)](https://github.com/NghiaBeOniamey/setupcode)
 
-- 📝 This is my CV [https://www.topcv.vn/xem-cv/UldWBF0HA1ENAwUFVwcBUgEIBwYJBgQABwNVAwd2e6](https://www.topcv.vn/xem-cv/UldWBF0HA1ENAwUFVwcBUgEIBwYJBgQABwNVAwd2e6)
+- 📝 This is my CV [Trịnh Hiếu Nghĩa - Backend Developer Java - CV](https://www.topcv.vn/xem-cv/UldWBF0HA1ENAwUFVwcBUgEIBwYJBgQABwNVAwd2e6)
 
 - 👨‍💻 All of my projects are available at [https://github.com/NghiaBeOniamey/](https://github.com/NghiaBeOniamey/)
 
